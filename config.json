@@ -1,0 +1,6 @@
+{
+    "resourcePrefix": "kendrauisample",
+    "name": "KendraUISample",
+    "websiteDistPath": "../kendra-ui-sample/build",
+    "deploymentVersion": "1.0.0"
+}
